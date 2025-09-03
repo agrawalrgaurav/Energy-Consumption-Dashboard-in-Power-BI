@@ -36,3 +36,6 @@ Location Analysis: Analyze energy consumption by geographic location to identify
 
 # Impact:
 This project empowers the company to make data-driven decisions that promote sustainable energy practices, optimize resource allocation, and achieve cost savings. By leveraging the power of Power BI and my data analysis skills, I can pave the way for a more sustainable future.
+
+# Screenshots
+Dashboard Preview : https://github.com/agrawalrgaurav/Energy-Consumption-Dashboard-in-Power-BI/blob/main/Dashboard%20Overview.png
