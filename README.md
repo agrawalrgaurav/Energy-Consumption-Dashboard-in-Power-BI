@@ -39,3 +39,4 @@ This project empowers the company to make data-driven decisions that promote sus
 
 # Screenshots
 Dashboard Preview : https://github.com/agrawalrgaurav/Energy-Consumption-Dashboard-in-Power-BI/blob/main/Dashboard%20Overview.png
+Gas Consumption Preview : https://github.com/agrawalrgaurav/Energy-Consumption-Dashboard-in-Power-BI/blob/main/Gas%20consumption.png
